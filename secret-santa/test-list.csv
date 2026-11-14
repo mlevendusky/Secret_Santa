@@ -1,0 +1,7 @@
+title,link,price,notes
+Wool scarf,https://www.example.com/scarf,25,Navy or grey
+Coffee grinder,https://www.example.com/grinder,49.99,"Burr grinder, not blade"
+Paperback novel,,12,Any crime fiction
+Board game,https://www.example.com/boardgame,35,
+Bad link item,javascript:alert(1),10,Link should be dropped
+,https://www.example.com/no-title,5,Row should be skipped
